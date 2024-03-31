@@ -16,4 +16,4 @@ private:
     cv::Mat m_image;
 };
 
-#endif // OPENCVIMAGE_HPP
+#endif
